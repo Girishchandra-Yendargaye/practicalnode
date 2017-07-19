@@ -24,13 +24,13 @@ The source code for this chapter is in the `ch3` folder of the practicalnode(<ht
 
 Mocha is a mature and powerful testing framework for Node.js. To install it, simply run:
 
-    $ npm install –g mocha@1.16.2
+    $ npm install mocha@1.16.2 –g
 
 **Note**: We use a specific version (the latest as of this writing is 1.16.2) to prevent inconsistency in this book&#39;s examples caused by potential breaking changes in future versions of Mocha.
 
 If you encounter the lack-of-permissions issue, discussed in Chapters 1 and 2, run:
 
-    $ sudo npm install –g mocha@1.16.2
+    $ sudo npm install mocha@1.16.2 –g
 
 To avoid using `sudo`, follow the instructions in Chapter 1 on how to install Node.js correctly.
 
